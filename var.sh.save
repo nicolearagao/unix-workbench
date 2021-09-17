@@ -1,0 +1,3 @@
+echo "Sentences to be printed: 
+      $@1
+      $"
